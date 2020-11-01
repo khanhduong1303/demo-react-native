@@ -51,7 +51,7 @@ export default class ListStudent extends React.Component {
   }
 
   renderItems = () => {
-    this.temp
+    this.temp 
   }
 
   render() {

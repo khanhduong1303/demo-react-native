@@ -9,7 +9,7 @@ export default class Alert2 extends React.Component {
   }
 
   componentDidMount() {
-    
+    console.log('kkkkk componentDidMount Alert2')
   }
 
   render () {
